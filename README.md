@@ -50,5 +50,6 @@ The system supports complete **CRUD operations** (Create, Read, Update, Delete) 
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone <https://github.com/couper117/simba-frontend>
+git clone
+https://github.com/couper117/simba-frontend
 cd supermarket-app
