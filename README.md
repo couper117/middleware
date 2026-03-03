@@ -20,7 +20,7 @@ The system supports complete **CRUD operations** (Create, Read, Update, Delete) 
 # 🎨 Design Reference (Part B Requirement)
 
 **Figma Design Link:**  
-👉 [INSERT YOUR FIGMA LINK HERE]
+👉 [https://www.figma.com/design/aKBar0Q4WkEXN5lAf6pIzS/Untitled?node-id=0-1&p=f&t=L4WxZ1e5lmX8d4dp-0]
 
 > This link is public as required so instructors can verify the 20-point design requirement.
 
@@ -50,5 +50,5 @@ The system supports complete **CRUD operations** (Create, Read, Update, Delete) 
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/couper117/simba-frontend>
 cd supermarket-app
